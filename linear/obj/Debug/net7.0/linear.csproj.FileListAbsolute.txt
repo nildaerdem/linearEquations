@@ -1,0 +1,15 @@
+/Users/apple/Projects/linear/linear/bin/Debug/net7.0/linear
+/Users/apple/Projects/linear/linear/bin/Debug/net7.0/linear.deps.json
+/Users/apple/Projects/linear/linear/bin/Debug/net7.0/linear.runtimeconfig.json
+/Users/apple/Projects/linear/linear/bin/Debug/net7.0/linear.dll
+/Users/apple/Projects/linear/linear/bin/Debug/net7.0/linear.pdb
+/Users/apple/Projects/linear/linear/obj/Debug/net7.0/linear.csproj.AssemblyReference.cache
+/Users/apple/Projects/linear/linear/obj/Debug/net7.0/linear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/linear/linear/obj/Debug/net7.0/linear.AssemblyInfoInputs.cache
+/Users/apple/Projects/linear/linear/obj/Debug/net7.0/linear.AssemblyInfo.cs
+/Users/apple/Projects/linear/linear/obj/Debug/net7.0/linear.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/linear/linear/obj/Debug/net7.0/linear.dll
+/Users/apple/Projects/linear/linear/obj/Debug/net7.0/refint/linear.dll
+/Users/apple/Projects/linear/linear/obj/Debug/net7.0/linear.pdb
+/Users/apple/Projects/linear/linear/obj/Debug/net7.0/linear.genruntimeconfig.cache
+/Users/apple/Projects/linear/linear/obj/Debug/net7.0/ref/linear.dll
